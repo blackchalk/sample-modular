@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">sample-modular</string>
+	<string name="app_name">sample-modular</string>
+	<string name="title_features">Onboarding Feature</string>
+	<string name="title_news_feature">News Feature</string>
 </resources>
